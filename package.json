@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "dev": "npx npm-run-all --parallel start server",
-    "server": "npx nodemon index.js"
+    "server": "node index.js"
   },
   "eslintConfig": {
     "extends": [
